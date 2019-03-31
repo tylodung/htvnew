@@ -7,7 +7,7 @@ import '../css/screen.css'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Câu chuyện tình tôi" />
+    <Helmet title="Câu Chuyện Tình Tôi" />
     <div>{children()}</div>
   </div>
 );

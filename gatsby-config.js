@@ -83,7 +83,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Website nhóm HTV21103102";
+          ret.generator = "Website Đoàn Bình";
           return ret;
         },
         query: `
