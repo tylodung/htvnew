@@ -4,7 +4,7 @@ path: /yeu-hay-khong
 title: Người ấy có yêu bạn hay không, hãy tinh mắt nhìn qua điểm này
 author: Doan binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
-authorTwitter: HarryMcGueeze
+authorTwitter: 
 image: 'http://2sao.vietnamnetjsc.vn/images/2018/02/08/11/21/tinh-yeu1.jpg'
 featuredVideo: 
 tags:
