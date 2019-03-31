@@ -20,7 +20,7 @@ const IndexPage = ({ data, pathContext }) => {
             <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Helmet>
 
-      <Header image='https://c1.staticflickr.com/5/4727/38198629624_92475de496_o.png' title="Website nhóm HTV21103102" tagline="Nguyễn Thị Hồng Hoa" />
+      <Header image='https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/ori-and-the-blind-forest-wallpaper-hd_qffhn3.jpg' title="Website Đoàn Bình" tagline="Lần Đầu Tôi Kể" />
       
         <main id="site-main" className="site-main outer" role="main">
 
