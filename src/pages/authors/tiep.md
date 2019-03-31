@@ -2,8 +2,8 @@
 title: thaoam
 templateKey: 'about-page'
 path: /thaoam
-authorName: Thảo Äm
-authorImage: http://cdn.bakadono.com/assets/img/og-images/bakadono/tiep.jpg
+authorName: Đoàn Bình
+authorImage: https://c1.staticflickr.com/5/4727/38198629624_92475de496_o.png
 twitterHandle: thaoamtanuyen
 bio: Thảo Am
 ---
