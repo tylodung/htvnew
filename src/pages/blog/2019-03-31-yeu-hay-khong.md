@@ -8,7 +8,7 @@ authorTwitter:
 image: 'https://2sao.vietnamnetjsc.vn/images/2018/02/08/11/21/tinh-yeu1.jpg'
 featuredVideo: 
 tags:
-  - Bai
+  - Love
 date: 2019-03-31T19:12:33.962Z
 description: >-
   Tinh yêu là thứ tình cảm xuất phát từ hai phía, nếu một trong hai người có sự giả dối không sớm thì muộn có ngày tình cảm sẽ đổ vỡ ngay. Có những người bắt đầu yêu nhưng khi yêu lại không yêu hết mình.
