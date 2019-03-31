@@ -9,7 +9,7 @@ module.exports = {
       feed_url: config.siteUrl + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/56375756_1259064004247702_4794116519556546560_n.jpg?_nc_cat=104&_nc_oc=AQkN35fwNW-3D5z6VL3zroPHHTweD3eGBa0xgzjgCctDsUfqmAVxKoeQ6RSL0x19QzkpTtdBfPpxAfXTR3kOc72O&_nc_ht=scontent.fsgn2-1.fna&oh=f987a1335e8aa0a34bee1da0d4d66ace&oe=5D11F731`,
+      image_url: `https://api.adorable.io/avatars/285/site.png`,
       author: config.userName,
       copyright: config.copyright
     }
