@@ -5,7 +5,7 @@ title: Tại sao dù có vợ đẹp con ngoan đàn ông vẫn ngoại tình
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
 authorTwitter: 
-image: 'http://vdaily.fun/wp-content/uploads/2019/03/adff.jpg'
+image: 'https://vdaily.fun/wp-content/uploads/2019/03/adff.jpg'
 featuredVideo: 
 tags:
   - Love
