@@ -6,7 +6,7 @@ import youtubeLogo from '../img/youtube-logo.svg'
 const Nav = ( { isHome } ) => 
     <nav className="site-nav">
         <div className="site-nav-left">
-            <a className="site-nav-logo" href="/">Câu Chuyện Tình Tui</a>
+            <a className="site-nav-logo" href="/">Câu Chuyện Bí Mật</a>
             <ul className="nav" role="menu">
                 <li role="menuitem">
                     <Link to="/">
