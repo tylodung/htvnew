@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /phu-nu-rr
+path: /phu-nu-rau-ram
 title: Phụ nữ thích ngoại tình với đàn ông râu rậm
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://we25.vn/media/images/Long%20and%20natural.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-02T13:12:33.962Z
+date: 2019-06-12T13:12:33.962Z
 description: Những người đàn ông nhiều râu thường gây sức hút hơn đối với chị em phụ nữ và cũng khiến họ muốn ngoại tình hơn.
 ---
 

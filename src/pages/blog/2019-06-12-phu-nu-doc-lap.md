@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /phu-nu-dl
+path: /phu-nu-doc-lap
 title: Phụ nữ độc lập và biết kiếm tiền nhất định sẽ có chỗ đứng trong tình yêu
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://anh.24h.com.vn/upload/3-2017/images/2017-09-01/1504273093-150427
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-03T13:12:33.962Z
+date: 2019-06-12T13:12:33.962Z
 description: Tôi vẫn thường nói với bạn mình thế này,“Cậu yêu ai cũng được, đẹp trai cũng được, xấu xí cũng được, giàu thì tốt mà nghèo cũng chẳng sao, chỉ cần cậu thích và thấy yên bình khi ở bên họ, thì hãy cứ yêu. Nhưng hãy nhớ là, dù có yêu ai, cậu vẫn phải sống thật độc lập cho tớ.”
 
 ---

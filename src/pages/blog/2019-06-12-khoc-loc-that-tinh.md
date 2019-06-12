@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /khoc-loc-tt
+path: /khoc-loc-that-tinh
 title: Đã có thuốc chữa bệnh Thất Tình rồi
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://sv1.upsieutoc.com/2017/05/03/DOIMTNGIXA2.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-03T13:12:33.962Z
+date: 2019-06-12T13:12:33.962Z
 description: Tình yêu cũng là một bệnh “nghiện” và hoàn toàn có thể chữa trị nó bằng thuốc như chữa trị một căn bệnh thông thường trên cơ thể con người.
 
 ---
@@ -28,13 +28,13 @@ Hoặc họ cũng có thể khám phá ra rằng mối quan hệ không còn ph�
 
 Earp cũng chỉ ra một số loại thuốc có tên SSRI có khả năng khiến bạn mất dần cảm giác quan tâm đến người khác, làm giảm bớt sự ràng buộc của bạn đối với một mối quan hệ mà bạn không còn hứng thú.
 
-Trải nghiệm sáu năm hễ uống thuốc vào là yêu say đắm
+**Trải nghiệm sáu năm hễ uống thuốc vào là yêu say đắm**
 
 Theo James, sau khi dùng thuốc, cảm giác mà anh có giống như là “khi bạn thấy cuộc sống thật tồi tệ thì có một người thân đến ôm chầm lấy bạn. Đó là một sự an ủi sâu sắc”. “Ngay tại thời điểm đó, bạn chỉ biết rằng mọi thứ đều ổn” – James nói.
 
 Trong khi đó theo Colleen, một nhân vật khác dùng MDMA được tạp chí Wired phỏng vấn, khi sử dụng thêm thuốc kích thích, anh và bạn đời của mình dễ dàng kết nối cảm xúc với nhau hơn thay vì phải tìm sự tư vấn của người ngoài cuộc.
 
-Có thực sự tạo nên cảm xúc yêu đương?
+**Có thực sự tạo nên cảm xúc yêu đương?**
 
 Theo tạp chí Wired, mặt tối của việc sử dụng thuốc kích thích tình yêu xảy ra khi các cặp đôi nhầm lẫn giữa việc dùng thuốc để “hâm nóng” tình yêu đã có với việc dùng thuốc để “xây dựng một mối quan hệ”.
 

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /phu-nu-tm
+path: /phu-nu-thong-minh
 title: Người phụ nữ thông minh là phải biết làm điều này
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://cdn.phunuvagiadinh.vn/thuthao/phu-nu-thong-minh-nen-tranh-xa-ngu
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-03T13:12:33.962Z
+date: 2019-06-12T13:12:33.962Z
 description: Phụ nữ độc lập và biết kiếm tiền nhất định sẽ có chỗ đứng trong tình yêu và ngay cả trong hôn nhân.
 
 ---
@@ -22,13 +22,13 @@ Họ nghĩ rằng, có tiền sẽ khiến họ vui vẻ, không có tiền lạ
 
 Nhưng thực ra những người phụ nữ đó lại không được coi trọng và đánh giá cao. Tiền thì quan trọng thật đấy, nhưng đánh đổi tất cả để có được nó thì không nên chút nào.
 
-Phụ nữ thì lợi dụng được gì ở đàn ông?
+**Phụ nữ thì lợi dụng được gì ở đàn ông?**
 
 Đó có lẽ là những bữa ăn được đàn ông trả tiền, những chuyến du lịch được đàn ông bao lo. Nếu phụ nữ cặp kè với đàn ông ngoại quốc, lại có ảnh để khoe mọi người họ có bạn trai Tây, được đi đây đi đó mở mang nhiều kiến thức.
 
 Cô nào xinh đẹp tuyệt trần còn có thể cua được đại gia, ăn sung mặc sướng thật không kể hết, lại còn được cấp vốn kinh doanh buôn bán kiếm tiền.
 
-Hãy là một người phụ nữ có lòng tự trọng trong tình yêu.
+**Hãy là một người phụ nữ có lòng tự trọng trong tình yêu.**
 
 Ngày nay, nam nữ bình quyền, việc gì nam giới làm được phụ nữ đều có thể làm được. Có thể người phụ nữ không kiếm tiền nhiều bằng đàn ông, nhưng phụ nữ cũng tự biết kiếm tiền nuôi sống bản thân.
 
