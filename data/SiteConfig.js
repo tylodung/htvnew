@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: "Câu Chuyện Bí Mật", // Site title.
     siteTitleAlt: "Câu Chuyện Bí Mật", // Alternative site title for SEO.
     siteLogo: "https://api.adorable.io/avatars/150/logo.png", // Logo used for SEO and manifest.
-    siteUrl: "https://hongkongnews247.work/", // Domain of your website without pathPrefix.
+    siteUrl: "https://appstore1.info/", // Domain of your website without pathPrefix.
     pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
     siteDescription: "Nhóm của Bình", // Website description used for RSS feeds/meta description tag.
     siteRss: "/rss.xml", // Path to the RSS file.
