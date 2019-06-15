@@ -15,7 +15,7 @@ export default function Tags({ pathContext }) {
         return (
             <div className="home-template">
 
-                <header className="site-header outer" style={{backgroundImage: 'url(https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348527/braid-hourglass_jso3su.jpg)' }}>
+                <header className="site-header outer" style={{backgroundImage: 'url(https://res.cloudinary.com/dz09rnbhe/image/upload/v1511348529/ori-and-the-blind-forest-wallpaper-hd_qffhn3.jpg)' }}>
                     <div className="inner">
                         <div className="site-header-content">
                             <h1 className="site-title">
