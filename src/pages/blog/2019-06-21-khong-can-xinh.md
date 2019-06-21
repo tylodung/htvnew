@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /k-can-xinh
+path: /khong-can-xinh
 title: Bí quyết khiến đàn ông Say như Bị Bỏ Bùa
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://clip.vietnamnetjsc.vn/media/2018/04/08/23/34/1000000072274621811
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-06-21T13:12:33.962Z
 description: Phụ nữ chỉ cần nắm vững những bó quyết dưới đây sẽ khiến đàn ông cả đời say như bị bỏ bùa.
 ---
 

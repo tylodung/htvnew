@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /doi-pho-baco
+path: /doi-pho-ba-co
 title: Tuyệt chiêu đối phó với bà cô
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://cdn.phunuvagiadinh.vn/thuthao/chieu-keo-chong-khoi-cuoc-ngoai-ti
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-06-21T13:12:33.962Z
 description: Không hiếm những cô dâu phải vác đơn ra tòa chỉ sau một thời gian ngắn chung sống với mẹ chồng và sống chung với em gái chồng.
 ---
 
