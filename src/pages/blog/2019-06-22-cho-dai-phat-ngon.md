@@ -5,14 +5,14 @@ title: Chớ dại mà phát ngôn ra những câu này, có ngày vợ chồng 
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
 authorTwitter: 
-image: 'http://afamilycdn.com/2018/3/11/maxresdefault-15207524195241033443152.jpg'
+image: 'https://2sao.vietnamnetjsc.vn/images/2019/01/08/16/49/korea-ava1.jpg'
 featuredVideo: 
 tags:
   - Love
 date: 2019-06-22T13:12:33.962Z
-description:
+description: Dưới đây là những câu nói nên tránh không đề cập tới nếu bạn không muốn một ngày nào đó hôn nhân của mình tan vỡ.
 ---
- Dưới đây là những câu nói nên tránh không đề cập tới nếu bạn không muốn một ngày nào đó hôn nhân của mình tan vỡ.
+ 
 
 **“Anh béo quá rồi đấy”**
 
