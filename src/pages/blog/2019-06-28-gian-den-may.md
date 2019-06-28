@@ -9,7 +9,7 @@ image: 'https://ttol.vietnamnetjsc.vn/images/2019/02/21/10/31/me-chong-tuong-lai
 featuredVideo: 
 tags:
   - Love
-date: 2019-03-31T19:12:33.962Z
+date: 2019-06-28T19:12:33.962Z
 description: >-
  Nhiều người phụ nữ không tin rằng người đàn ông của mình vốn rất yêu thương vợ, rất giỏi bỏ qua những lỗi lầm của vợ nhưng chỉ vì một câu nói chạm đúng vào “huyệt” tự ái mà có thể tung hê…
 
