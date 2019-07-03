@@ -9,7 +9,7 @@ image: 'https://2sao.vietnamnetjsc.vn/images/2018/02/08/11/21/tinh-yeu1.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-03-31T19:12:33.962Z
+date: 2019-07-03T19:12:33.962Z
 description: >-
   Tinh yêu là thứ tình cảm xuất phát từ hai phía, nếu một trong hai người có sự giả dối không sớm thì muộn có ngày tình cảm sẽ đổ vỡ ngay. Có những người bắt đầu yêu nhưng khi yêu lại không yêu hết mình.
 
@@ -27,7 +27,7 @@ Nếu đối phương bắt đầu che giấu mọi chuyện và không còn chi
 
 Nếu bạn phát hiện ra một chuyện gì đó và hỏi họ nhưng họ lại chối bay biến thì nhất định phía sau đó là một lời nói dối to đùng.
 
-Khen bạn nhiều hơn (thậm chí có lời khen vô lí)
+**Khen bạn nhiều hơn (thậm chí có lời khen vô lí)**
 
 Chẳng hạn, vẫn là chiếc váy mọi khi bạn mặc anh ấy cảm thấy chẳng được chút nào, nhưng giờ đây anh ấy lại liên tục đưa ra lời khen ngợi. Những lúc này thì không còn nghi ngờ gì nữa, anh ta đang dần thay đổi và cảm thấy có lỗi khi lừa dối bạn nên mới đưa ra lời khen để khiến bạn an tâm hơn.
 

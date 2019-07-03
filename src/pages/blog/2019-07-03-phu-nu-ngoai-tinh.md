@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /phu-nu-ngoai-tinh
-title: Khi ngoại tình, phụ nữ thực sự còn đáng sợ hơn đàn ông
+title: Phụ nữ ngoại tình thực sự còn đáng sợ hơn đàn ông
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
 authorTwitter: 
@@ -9,7 +9,7 @@ image: 'https://cdn.phunuvagiadinh.vn/thuthao/nhung-kieu-dan-ong-ngoai-tinh-nhun
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-07-03T13:12:33.962Z
 description: Người ta thường nói trong tình yêu, đàn ông và đàn bà là hai sự khác biệt về ngoại tình.
 ---
 

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-path: /phu-nu-dt
-title: Phụ nữ dù đang độc thân, đã kết hôn hay ly hôn cũng nên nhớ điều này để cả đời không âu lo
+path: /phu-nu-doc-than
+title: Phụ nữ dù ra sao nên nhớ điều này để cả đời không âu lo
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
 authorTwitter: 
@@ -9,7 +9,7 @@ image: 'https://2sao.vietnamnetjsc.vn/images/2018/04/28/13/40/nhung-ly-do-khong-
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-07-03T13:12:33.962Z
 description: Sau đây là những lời khuyên giúp người phụ nữ tháo gỡ được những nút thắt trong lòng mình.
 ---
 
