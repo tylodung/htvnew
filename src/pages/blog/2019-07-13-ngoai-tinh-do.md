@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /ngoai-tinh-do
-title: Tại sao dù có vợ đẹp con ngoan đàn ông vẫn ngoại tình
+title: Tại sao dù có vợ đẹp con ngoan đàn ông vẫn ngoại tình?
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
 authorTwitter: 
@@ -9,7 +9,7 @@ image: 'https://vdaily.fun/wp-content/uploads/2019/03/adff.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-07-13T13:12:33.962Z
 description: Người đàn ông sẽ không cân nhắc xem vợ mình hay cô gái sắp trở thành bồ ai hơn ai. Anh ta cần “đổi gió″ và có người đáp ứng, vậy là đủ.
 
 ---
@@ -60,19 +60,19 @@ Cuối cùng, dù bạn có đẹp cỡ nào, khi chồng muốn ngoại tình, 
 
 **Cách xử lý thông minh khi phát hiện chồng ngoại tình**
 
-1.Phải bình tĩnh
+*1. Phải bình tĩnh*
 
 Bình tĩnh là điều đầu tiên chị em nên có khi phát hiện chồng ngoại tình, đừng để sự mất bình tĩnh mất kiểm soát của mình là điều làm gia đình tan nát. giữ bình tình sẽ giúp bạn đưa ra những phương án hợp lý trong việc xử lý chồng ngoại tình.
 
 Khi biết chồng ngoại tình, hãy có bằng chứng trước đã, bạn phải kiểm tra xem có thật sự chồng mình đã ngoại tình hay không? đừng để sự mất bình tĩnh nghi ngờ làm bạn nghi oan cho chồng. Sự nghi ngờ chỉ khiến bạn giám tiếp phá vỡ hạnh phúc gia đình của chính bạn.
 
-2. Nói chuyện với tình địch, với chồng
+*2. Nói chuyện với tình địch, với chồng*
 
 Nếu kẻ thứ 3 đó là người có gia đình họ chắc chắn sợ tai tiếng, bạn nên bình tĩnh và nói chuyện thẳng thắn với cô ta và đề nghị tránh xa chồng bạn nếu không bạn sẽ có biện pháp xử lí, hãy nói mập mờ rõ ràng để cô ta đồng ý và không làm phiền chồng bạn nữa. Hoặc cũng có khi lỗi lại chính ở chồng bạn chứ không phải là người thứ 3 kìa. Do vậy cần nói chuyện thẳng thắn với người thứ 3 rồi tìm ra sự thật.
 
 Mặt khác hãy nói chuyện với chồng, nếu nguyên nhân do bạn thì bạn hãy lôi kéo chồng mình và giữ gìn hạnh phúc còn nếu nguyên nhân do tính trăng hoa của chồng thì hãy nói chuyện thẳng thắn với chồng bạn và có cách xử lí đúng đắn, đồng thời bạn cũng nên suy nghĩ kĩ bản tính chồng mình như vậy liệu có chấp nhận được không? Khi nói chuyện với ngườ thứ 3 bạn nên đi cùng bạn bè, những người thân thiết, tránh tình trạng mất bình tĩnh dẫn đến đáng nhau.
 
-3. Hãy xem xét bản thân mình
+*3. Hãy xem xét bản thân mình*
 
 Nếu biết chắc chồng mình đã ngoại tình, hãy bình tĩnh và tự suy xét bản thân xem mình có phải là 1 trong các nguyên nhân khiến chồng ngoại tình hay không? Đôi khi chính vì tại bản thân mình nên chồng mới đi ngoại tình.
 
