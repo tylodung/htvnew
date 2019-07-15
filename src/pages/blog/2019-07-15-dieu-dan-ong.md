@@ -9,12 +9,11 @@ image: 'https://2sao.vietnamnetjsc.vn/images/2018/04/03/17/25/dan-ong1.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
-description: Đàn ông và phụ nữ bày tỏ cách quan tâm và tình yêu của mình theo những cách khác nhau. Nếu một người đàn ông sẵn sàng để công khai thể hiện tình yêu với người phụ nữ, điều đó có nghĩa anh ấy yêu rất nhiều.
+date: 2019-07-15T13:12:33.962Z
+description: Đàn ông và phụ nữ bày tỏ cách quan tâm và tình yêu của mình theo những cách khác nhau. 
 
 ---
-
-Dưới đây là những biểu hiện khi một người đàn ông yêu thật lòng dành cho người phụ nữ của anh ấy:
+Nếu một người đàn ông sẵn sàng để công khai thể hiện tình yêu với người phụ nữ, điều đó có nghĩa anh ấy yêu rất nhiều. Dưới đây là những biểu hiện khi một người đàn ông yêu thật lòng dành cho người phụ nữ của anh ấy:
 
 **Lắng nghe**
 

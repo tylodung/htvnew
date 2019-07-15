@@ -9,8 +9,8 @@ image: 'https://afamilycdn.com/2018/2/27/a13-1519721381620190282602.jpg'
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
-description: Cách ứng xử thông minh với người yêu cho tình cảm thêm nồng thắm. Giữ tình yêu luôn đẹp và đầy sức sống trong quan hệ hai người là cả một nghệ thuật. Bởi vậy, bạn nên chú ý đến cách ứng xử trong tình yêu của mình.
+date: 2019-07-15T13:12:33.962Z
+description: Cách ứng xử thông minh với người yêu cho tình cảm thêm nồng thắm. Giữ tình yêu luôn đẹp và đầy sức sống trong quan hệ hai người là cả một nghệ thuật.
 ---
 
 Đôi khi bạn không tránh khỏi cảm giác ghen tị khi nhìn vào tình yêu của người khác. Bạn thấy họ hạnh phúc, tình yêu thật đẹp, người yêu thật tuyệt vời… trong khi tình yêu của bạn lại gặp hết rắc rối này đến phức tạp khác. Thực tế, họ cũng không tránh khỏi những điều mà bạn từng gặp, chỉ có điều họ biết cách ứng xử trong tình yêu để được hạnh phúc hơn mỗi ngày.
