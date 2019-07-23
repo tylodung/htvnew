@@ -7,7 +7,7 @@ const Footer = () =>
     <footer className="site-footer outer">
         <div className="site-footer-content inner">
             <section className="copyright">
-                <Link to="/">appstore1.info</Link> &copy; { (new Date()).getFullYear() }
+                <Link to="/">Tình Yêu Ba Má</Link> &copy; { (new Date()).getFullYear() }
             </section>
             <nav>
                 <a className="social-logo" href="http://thaoam.com" >

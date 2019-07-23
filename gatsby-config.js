@@ -2,7 +2,7 @@ const config = require("./data/SiteConfig");
 
 module.exports = {
   siteMetadata: {
-    title: `Câu Chuyện Bí Mật`,
+    title: `Tình Yêu Ba Má`,
     siteUrl: config.siteUrl,
     rssMetadata: {
       site_url: config.siteUrl ,
@@ -83,7 +83,7 @@ module.exports = {
         setup(ref) {
           const ret = ref.query.site.siteMetadata.rssMetadata;
           ret.allMarkdownRemark = ref.query.allMarkdownRemark;
-          ret.generator = "Câu Chuyện Bí Mật";
+          ret.generator = "Tình Yêu Ba Má";
           return ret;
         },
         query: `
