@@ -20,7 +20,7 @@ const IndexPage = ({ data, pathContext }) => {
             <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
         </Helmet>
 
-      <Header image='https://westudy.vn/wp-content/uploads/2018/01/maxresdefault.jpg' title="Tình Yêu Ba Má" tagline="Chuyện của bà Tám.." />
+      <Header image='http://uehenter.com/wp-content/uploads/Thumbnail-1.jpg' title="Tình Yêu Ba Má" tagline="Chuyện của bà Tám.." />
       
         <main id="site-main" className="site-main outer" role="main">
 

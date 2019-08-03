@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /phu-nu-tt
+path: /phu-nu-tuyet-tinh
 title: Là phụ nữ phải học cách tuyệt tình trước khi yêu để mãi không bị tổn thương
 author: Doan Binh
 authorImage: 'https://avatars1.githubusercontent.com/u/5263612?s=460&v=4'
@@ -9,7 +9,7 @@ image: 'https://cdn.phunuvagiadinh.vn/thuthao/khong-phai-goi-da-bao-vang-vo-cu-b
 featuredVideo: 
 tags:
   - Love
-date: 2019-04-01T13:12:33.962Z
+date: 2019-08-03T13:12:33.962Z
 description: Phụ nữ hãy nhớ tình yêu sẽ dạy bạn cách yêu thương, chia sẻ thậm chí là hận thù nhưng tuyệt đối không dạy bạn cách buông tay.
 
 ---
